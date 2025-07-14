@@ -6,6 +6,8 @@
 #
 # LICENSE...: https://github.com/Semperis/BadSuccessorBlockOnOff?tab=MIT-1-ov-file
 #
+# DISCLAIMER: https://github.com/Semperis/BadSuccessorBlockOnOff?tab=readme-ov-file#disclaimer
+#
 
 # The DN Of The dMSA To Target
 $dMSADN = "<DN Of The dMSA To Target>"
